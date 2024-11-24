@@ -1,2 +1,2 @@
 Aluno = Rogério ]lucas do Nascimento Silva
-ideia = ...
+ideia = Registrar e armazenar dados dos jogadores
